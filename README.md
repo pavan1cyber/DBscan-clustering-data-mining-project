@@ -6,7 +6,7 @@
 python 3 <br>
 pip install numpy <br>
 pip install matplotlib <br>
-pip install skit-learn <br>
+pip install scikit-learn <br>
 
 
 # images
