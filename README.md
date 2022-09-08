@@ -3,10 +3,10 @@
 
 # requirement : 
 
-python 3
-pip install numpy
-pip install matplotlib
-pip install skit-learn
+python 3 <br>
+pip install numpy <br>
+pip install matplotlib <br>
+pip install skit-learn <br>
 
 
 # images
